@@ -47,6 +47,22 @@ let musicDB = [
       stream: 'http://youtu.be/zbqgv0mMfwk',
     },
   },
+    {
+    id: 3,
+    name: 'O Maahi',
+    author_name: 'Arijit Singh',
+    img: 'Dunki.jpg',
+    lang: 'HINDI',
+    timesPlayed: 0,
+    type: 'Romantic',
+    musicName: 'O Maahi - Dunki 320 Kbps.mp3',
+    attribution: {
+      song: 'O Maahi - Dunki',
+      musicBy: 'Arijit Singh',
+      download: 'http://ncs.io/Ignite',
+      stream: 'http://youtu.be/zbqgv0mMfwk',
+    },
+  },
 ];
 
 export default musicDB;
