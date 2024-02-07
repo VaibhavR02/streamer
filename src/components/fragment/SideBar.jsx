@@ -23,12 +23,12 @@ function SideBar() {
           href={'/home'}
           title={'Home'}
         />
-        <SideBarOptions
+        {/* <SideBarOptions
           className={'lib-sub'}
           Icon={ExploreOutlined}
           href={'/home/about'}
           title={'About'}
-        />
+        /> */}
         <SideBarOptions
           className={'lib-sub'}
           Icon={SearchOutlined}
