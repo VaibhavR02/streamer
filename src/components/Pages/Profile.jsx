@@ -46,15 +46,10 @@ function Profile() {
               <SideBarOptions
                 className={'lib-sub'}
                 Icon={PlaylistPlay}
-                href={'/home/playlist/instrumental'}
-                title={'Instrumental'}
+                href={'/home/playlist/Romantic'}
+                title={'Romantic'}
               />
-              <SideBarOptions
-                className={'lib-sub'}
-                Icon={PlaylistPlay}
-                href={'/home/playlist/electronic'}
-                title={'Electronic'}
-              />
+              
             </span>
           </div>
         </div>
