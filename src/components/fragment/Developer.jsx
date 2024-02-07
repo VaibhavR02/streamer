@@ -10,7 +10,7 @@ const Developer = () => {
             <h3 className={"Developer-head"}>Meet the developer</h3>
             <div className="Developer-profile">
                 <div className="Developer-profileCard">
-                 //   <img src={AvatarImage} alt="Profile"/>
+                 <img src={AvatarImage} alt="Profile"/>
                     <div className={"Card-details"}>
                         <h3>Vaibhav Randale</h3>
                         <p>Full Stack developer</p>
